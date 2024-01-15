@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeoCPP.cpp.obj": [
+			"GeoCPP.cpp.obj"
+		]
+	}
+}

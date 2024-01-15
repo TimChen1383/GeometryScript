@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeoCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProjects\GeoSCPP\Intermediate\Build\Win64\x64\GeoSCPPEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\UnrealProjects\GeoSCPP\Plugins\GeoCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoCPP\Module.GeoCPP.cpp.obj"
+"C:\UnrealProjects\GeoSCPP\Plugins\GeoCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoCPP\Default.rc2.res"
+/OUT:"C:\UnrealProjects\GeoSCPP\Plugins\GeoCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\GeoCPP\UnrealEditor-GeoCPP.lib"

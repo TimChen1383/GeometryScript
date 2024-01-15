@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\geoscpp\\plugins\\geocpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\geocpp\\module.geocpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\geoscpp\\intermediate\\build\\win64\\x64\\geoscppeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\geoscpp\\plugins\\geocpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\geocpp\\definitions.geocpp.h",
+            "c:\\unrealprojects\\geoscpp\\plugins\\geocpp\\source\\geocpp\\private\\geocpp.cpp",
+            "c:\\unrealprojects\\geoscpp\\plugins\\geocpp\\source\\geocpp\\public\\geocpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
